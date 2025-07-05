@@ -1,4 +1,4 @@
-# Task 1 - Numbers
+# Task 1 - List Sorting
 
 ## Objective
 
