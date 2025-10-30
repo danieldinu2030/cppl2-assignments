@@ -1,18 +1,14 @@
-# Computer Programming and Programming Languages 2 (Hardware Software Interface)
-# Medium Assembly Tasks
+# Computer Programming and Programming Languages 2 (Hardware Software Interface) 
+# -- Assignments --
 
-## Overview
+This repository features my implementation for the three CPPL2 assignments:
 
-As a checkpoint in the process of learning the Assembly language, this assignment features four different tasks 
-solved entirely in ASM. These tasks are functions that solve a certain problem. These implementations can be
-seen as functions that are assembled with NASM and linked with another object file that calls the ASM functions
-to perform the tasks.
+- A simplified C to Assembly transpiler
+- A set of simple tasks in Assembly
+- A set of medium tasks in Assembly
 
-## Running the Tasks
+Languages: Assembly, C, Makefile
 
-- For consistency and structure, there will be a separate directory for each task
-- Each directory will contain:
-  - a README for the description of the task
-  - a Makefile
-  - a supporting C file for checking the result
-  - the ASM implementation of the task
+The `medium-tasks`, `simple-tasks` and `transpiler` directories also contain a `README.md` file with a summary of the 
+solved tasks, according to the limitations, assumptions and purpose of the tasks. These assignments were 
+designed to introduce the principles of Assembly, then to apply them in certain exercises.
